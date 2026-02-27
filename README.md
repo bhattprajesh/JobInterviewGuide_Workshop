@@ -27,7 +27,7 @@ Participants experience a mock interview guided by a large language model (LLM),
 | **Kevinkumar Patel** | `JobInterviewGuide_Workshop_Kevinkumar_Patel.ipynb` | — | *To be added* | Notebook submitted; LLM session transcript pending |
 | **Prajesh Bhatt** | `JobInterviewGuide_Workshop_Prajesh Bhatt.ipynb` | — | *To be added* | Notebook submitted; LLM session transcript pending |
 
-> **Note:** Kevinkumar Patel and Prajesh Bhatt have submitted their personalized notebooks but have not yet included their LLM session transcripts. These will be added in a future update.
+
 
 ---
 
