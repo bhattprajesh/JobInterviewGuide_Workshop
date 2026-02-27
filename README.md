@@ -102,7 +102,7 @@ Students follow this workflow:
 4. Upload **StudyGuide.txt** and **StudyMaterials.zip**.
 5. Paste a structured prompt to instruct the LLM to act as an interviewer, quiz them, and create a custom study notebook.
 6. Complete a **15-question interview quiz** (technical + behavioral).
-7. Receive a personalized **JobInterviewGuide_Workshop.ipynb** notebook based on the quiz results.
+7. Receive a personalized **JobInterviewGuide_Workshop_<Name>.ipynb** notebook based on the quiz results.
 8. Push the final graded notebook to GitHub.
 
 ---
@@ -134,16 +134,16 @@ Students follow this workflow:
 
 ```
 JobInterviewGuide_Workshop/
-├── JobInterviewGuide_Workshop.ipynb                    # Original workshop instructions
-├── JobInterviewGuide_Workshop_Muthuraj.ipynb           # Muthuraj's personalized study notebook
-├── JobInterviewGuide_Workshop_Kevinkumar_Patel.ipynb   # Kevinkumar's personalized study notebook
-├── JobInterviewGuide_Workshop_Prajesh Bhatt.ipynb      # Prajesh's personalized study notebook
-├── LLMInteraction_MuthurajforInterviewQuestions.txt    # Muthuraj's LLM quiz session transcript
-├── StudyGuide.txt                                      # Study guide topics
-├── StudyMaterials.zip                                  # Zipped workshop notebooks
-├── README.md                                           # This file
-├── requirements.txt                                    # Python dependencies
-├── .gitignore                                          # Git ignore rules
+├── JobInterviewGuide_Workshop_ProfessorInstructions.ipynb  # Original workshop instructions (renamed)
+├── JobInterviewGuide_Workshop_Muthuraj.ipynb               # Muthuraj's personalized study notebook
+├── JobInterviewGuide_Workshop_Kevinkumar_Patel.ipynb       # Kevinkumar's personalized study notebook
+├── JobInterviewGuide_Workshop_Prajesh Bhatt.ipynb          # Prajesh's personalized study notebook
+├── LLMInteraction_MuthurajforInterviewQuestions.txt        # Muthuraj's LLM quiz session transcript
+├── StudyGuide.txt                                          # Study guide topics
+├── StudyMaterials.zip                                      # Zipped workshop notebooks
+├── README.md                                               # This file
+├── requirements.txt                                        # Python dependencies
+├── .gitignore                                              # Git ignore rules
 └── images/
     ├── OnlineJobInterview.png
     └── OnlineJobInterview2.png
